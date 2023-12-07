@@ -9,4 +9,4 @@ for i in range (start,end+1):
             if(i %j ==0):
                 break
         else :
-        
+            print(i)
